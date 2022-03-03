@@ -1,0 +1,9 @@
+matt:left bf:right
+:1:talk:0.05:normal:helo.
+:3:talk:0.05:normal:what the fuck are you doing here
+:1:talk:0.05:normal:bee eep
+:3:talk:0.05:normal:what in the shit is wrong with you
+:3:talk:0.05:normal:you are so damn persistent leave me alone mf
+:1:talk:0.05:normal:bap bop
+:3:talk:0.05:normal:bruh are you deadass
+:1:talk:0.05:normal:beep

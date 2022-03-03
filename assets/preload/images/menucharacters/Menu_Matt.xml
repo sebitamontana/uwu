@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuMATT.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menuMATT0000" x="0" y="0" width="422" height="412"/>
+	<SubTexture name="menuMATT0001" x="0" y="0" width="422" height="412"/>
+	<SubTexture name="menuMATT0002" x="522" y="0" width="422" height="412"/>
+	<SubTexture name="menuMATT0003" x="522" y="0" width="422" height="412"/>
+	<SubTexture name="menuMATT0004" x="1044" y="0" width="422" height="412"/>
+	<SubTexture name="menuMATT0005" x="1044" y="0" width="422" height="412"/>
+	<SubTexture name="menuMATT0006" x="1566" y="0" width="422" height="412"/>
+	<SubTexture name="menuMATT0007" x="0" y="512" width="422" height="412"/>
+	<SubTexture name="menuMATT0008" x="522" y="512" width="422" height="412"/>
+	<SubTexture name="menuMATT0009" x="522" y="512" width="422" height="412"/>
+	<SubTexture name="menuMATT0010" x="522" y="512" width="422" height="412"/>
+	<SubTexture name="menuMATT0011" x="522" y="512" width="422" height="412"/>
+	<SubTexture name="menuMATT0012" x="522" y="512" width="422" height="412"/>
+	<SubTexture name="menuMATT0013" x="522" y="512" width="422" height="412"/>
+</TextureAtlas>

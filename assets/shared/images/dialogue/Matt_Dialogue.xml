@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Matt_Dialogue.png">
+<SubTexture name="MattTalk0000" x="0" y="0" width="578" height="563" frameX="0" frameY="0" frameWidth="578" frameHeight="563" />
+<SubTexture name="matttalkloop0000" x="578" y="0" width="578" height="563" frameX="0" frameY="0" frameWidth="578" frameHeight="563" />
+<SubTexture name="matttalkloop0001" x="578" y="0" width="578" height="563" frameX="0" frameY="0" frameWidth="578" frameHeight="563" />
+<SubTexture name="matttalkloop0002" x="1156" y="0" width="578" height="563" frameX="0" frameY="0" frameWidth="578" frameHeight="563" />
+<SubTexture name="matttalkloop0003" x="1156" y="0" width="578" height="563" frameX="0" frameY="0" frameWidth="578" frameHeight="563" />
+<SubTexture name="matttalkloop0004" x="0" y="0" width="578" height="563" frameX="0" frameY="0" frameWidth="578" frameHeight="563" />
+<SubTexture name="matttalkloop0005" x="0" y="0" width="578" height="563" frameX="0" frameY="0" frameWidth="578" frameHeight="563" />
+</TextureAtlas>
